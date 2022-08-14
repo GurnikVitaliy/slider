@@ -12,8 +12,9 @@ img {
    justify-content: center;
 }
 h1 {
-  color: #fff;
-  text-shadow:
+   text-align: center;
+   color: #fff;
+   text-shadow:
     0 0 7px #fff,
     0 0 10px #fff,
     0 0 21px #fff,
