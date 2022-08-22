@@ -5,7 +5,6 @@ const btnPrev = document.getElementById('prev'),
 let index = 0;
 
 function activeSlider(ind) {
-    console.log(ind);
     for(let slider of sliders) {
         slider.classList.remove('active');
     }
